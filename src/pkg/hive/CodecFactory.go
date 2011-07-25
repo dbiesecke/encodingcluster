@@ -8,3 +8,4 @@ func CreateEncoder(codec * Codec)*gmf.Encoder{
     }
     return result
 }
+
